@@ -1,0 +1,15 @@
+.commentImg {
+    height: 65px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.commName {
+    font-size: 20px;
+    margin: 20px;
+}
+
+.commText {
+    font-size: 20px;
+}
