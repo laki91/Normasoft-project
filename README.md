@@ -1,3 +1,7 @@
+NAPOMENA: Projekad sam bio primoran da prebacim u jedanu od ranije napravljenih react app, jer sam imao nekih tehnickih problema.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
